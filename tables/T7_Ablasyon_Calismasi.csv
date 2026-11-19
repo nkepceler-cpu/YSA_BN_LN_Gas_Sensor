@@ -1,0 +1,4 @@
+﻿Model;BN;LN;Accuracy (%);F1-Score (%);Test Loss;Accuracy farki (yuzde puan);F1 farki (yuzde puan);Test Loss farki
+Standart_YSA;Yok;Yok;99,1215;99,058;0,0621;0,0;0,0;0,0
+BN_YSA;Var;Yok;98,9459;98,8262;0,0668;-0,1757;-0,2318;0,0047
+LN_YSA;Yok;Var;99,4889;99,4435;0,0304;0,3674;0,3855;-0,0317

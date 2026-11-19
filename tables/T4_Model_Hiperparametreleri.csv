@@ -1,0 +1,20 @@
+﻿Parametre;Standart YSA;BN-YSA;LN-YSA
+Girdi sayısı;128;128;128
+Gizli katman sayısı;2;2;2
+Birinci gizli katman;128;128;128
+İkinci gizli katman;64;64;64
+Çıktı sayısı;6;6;6
+Normalizasyon;Yok;Batch Normalization;Layer Normalization
+Aktivasyon fonksiyonu;ReLU;ReLU;ReLU
+Optimizasyon algoritması;Adam;Adam;Adam
+Kayıp fonksiyonu;Cross Entropy;Cross Entropy;Cross Entropy
+Öğrenme oranı;0,001;0,001;0,001
+Batch size;64;64;64
+Epoch;100;100;100
+Deney tekrarı;3;3;3
+Dropout;Yok;Yok;Yok
+Eğitilebilir parametre;25158;25542;25542
+Epsilon;Yok;0,00001;0,00001
+BN momentum;Yok;0,1;Yok
+Weight decay;0;0;0
+Random seeds;[42, 123, 2026];[42, 123, 2026];[42, 123, 2026]

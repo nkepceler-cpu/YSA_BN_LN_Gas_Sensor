@@ -1,0 +1,9 @@
+﻿No;Öznitelik;Açıklama;Sensör sayısı
+1;ΔR;Maksimum direnç değişimi;16
+2;|ΔR|;Normalize edilmiş direnç değişimi;16
+3;EMAi 0.001;Yükselen sensör tepkisi;16
+4;EMAi 0.01;Yükselen sensör tepkisi;16
+5;EMAi 0.1;Yükselen sensör tepkisi;16
+6;EMAd 0.001;Azalan sensör tepkisi;16
+7;EMAd 0.01;Azalan sensör tepkisi;16
+8;EMAd 0.1;Azalan sensör tepkisi;16

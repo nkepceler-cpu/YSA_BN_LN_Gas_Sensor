@@ -1,0 +1,10 @@
+﻿Adım;İşlem;Sonuç
+1;Verilerin okunması;10 DAT dosyası
+2;Verilerin birleştirilmesi;13910 örnek ve 128 öznitelik
+3;Eksik ve sonsuz değer kontrolü;NaN ve sonsuz değer bulunmadı
+4;Sınıf etiketlerinin düzenlenmesi;1-6 etiketleri 0-5 olarak düzenlendi
+5;Eğitim verisinin ayrılması;9737 örnek (%70)
+6;Doğrulama verisinin ayrılması;2086 örnek (yaklaşık %15)
+7;Test verisinin ayrılması;2087 örnek (yaklaşık %15)
+8;Z-score standardizasyonu;Eğitim ortalaması yaklaşık 0, standart sapması 1
+9;Ortak örnek indeksi kontrolü;Veri gruplarında ortak indeks bulunmadı

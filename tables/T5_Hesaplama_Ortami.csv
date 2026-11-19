@@ -1,0 +1,15 @@
+﻿Özellik;Değer
+İşletim sistemi;Windows 11
+İşlemci;Intel Core i5-13500H
+Fiziksel çekirdek sayısı;12
+Mantıksal çekirdek sayısı;16
+RAM;16 GB
+GPU (CUDA);NVIDIA GeForce RTX (kullanılmadı)
+CUDA desteği;Mevcut PyTorch sürümünde yok
+Hesaplama cihazı;CPU
+Python sürümü;3.15.2
+PyTorch sürümü;2.15.0+cpu
+NumPy sürümü;2.5.4
+Pandas sürümü;3.1.1
+Scikit-learn sürümü;1.9.1
+Matplotlib sürümü;3.11.2
